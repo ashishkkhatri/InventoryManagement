@@ -1,4 +1,4 @@
-# InventoryManagement_UI
+# InventoryManagement
 
 To run the project follow the steps below:
 
